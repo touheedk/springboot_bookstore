@@ -23,3 +23,4 @@
 hs_err_pid*
 .vscode/
 /springboot_bookstore/target/
+/angular-bookstore/node_modules/
